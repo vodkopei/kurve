@@ -1,8 +1,7 @@
-﻿using KochCurve;
-using System;
+﻿using System;
 using System.Windows.Forms;
 
-namespace kloun_anton
+namespace KochCurve
 {
     internal static class Program
     {
